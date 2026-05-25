@@ -1,0 +1,6 @@
+{
+  "name": "Solo Female Travel Companion",
+  "description": "A women-first solo travel companion featuring safety-first itinerary planning, community safety ratings, local trusted contacts, and an interactive safety advisory driven by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
